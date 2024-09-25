@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Sep 25 06:21:32 2024
+# Process ID: 15310
+# Current directory: /media/share/Alchitry/buttonConditionerTest/build/vivado/buttonConditionerTest.runs/synth_1
+# Command line: vivado -log alchitryTop.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source alchitryTop.tcl
+# Log file: /media/share/Alchitry/buttonConditionerTest/build/vivado/buttonConditionerTest.runs/synth_1/alchitryTop.vds
+# Journal file: /media/share/Alchitry/buttonConditionerTest/build/vivado/buttonConditionerTest.runs/synth_1/vivado.jou
+# Running On: debian, OS: Linux, CPU Frequency: , CPU Physical cores: 1, Host memory: 8328 MB
+#-----------------------------------------------------------
+source alchitryTop.tcl -notrace
